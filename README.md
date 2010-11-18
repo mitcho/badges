@@ -1,5 +1,3 @@
-This is my *first* package. It contains:
+Panorama Badges adds a simple number badge to your Panorama tabs, based on a number in the website's title. Works with gmail, twitter, facebook, tumblr...
 
-* A tiny module.
-* A tiny test suite.
-* Some meager documentation.
+This is essentially a proof of concept for the `panorama` library module. See the `panorama` module docs for more information.

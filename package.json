@@ -4,5 +4,7 @@
         "jetpack-core"
     ], 
     "description": "Panorama Badges", 
-    "author": "mitcho (http://mitcho.com)"
+    "author": "mitcho (http://mitcho.com)",
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
+    "version": 0.1
 }
