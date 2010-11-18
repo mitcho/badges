@@ -1,0 +1,1 @@
+var panorama = require("panorama");

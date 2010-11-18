@@ -1,0 +1,8 @@
+{
+    "id": "jid0-IbNRjNgGyD9mhUgjwkOkBmY2i4I", 
+    "dependencies": [
+        "jetpack-core"
+    ], 
+    "description": "Panorama Badges", 
+    "author": "mitcho (http://mitcho.com)"
+}
